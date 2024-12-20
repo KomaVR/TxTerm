@@ -140,9 +140,9 @@ def display_menu():
     +---------------------+  +-------------------------+
     | Type A Number:      |  | 1. Slow Loris           |
     |---------------------|  | 2. IP Ping              |
-    |                     |  | 3. HTTP DDoS            |
-    |                     |  | 4. SyN Flood            |
-    |                     |  | 5. UDP Flood            |
+    | Made By Koma        |  | 3. HTTP DDoS            |
+    | I did use a little  |  | 4. SyN Flood            |
+    | ai for design       |  | 5. UDP Flood            |
     |                     |  | 6. TCP Flood            |
     |                     |  | 7. More Soon            |
     +---------------------+  +-------------------------+
